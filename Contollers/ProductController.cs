@@ -1,5 +1,4 @@
-﻿
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using AcoApp.webui.Models;
 using AcoApp.webui.ViewModels;
@@ -30,17 +29,9 @@ namespace AcoApp.webui.Contollers
                 new Product {Name="Iphone x",Price=7000,Description="çok iyi telefon"},
             };
 
-            var categories = new List<Category>()
-            {
-                new Category { Name = "Telefon", Description = "telefonlar" },
-                new Category { Name = "Bilgisayar", Description = "Bilgisayarlar" },
-                new Category { Name = "Tablet", Description = "Tabletler" }
-            };
-           
-
             var productViewModel = new ProductViewModel()
             {
-                Categories = categories,
+                
                 Products = products
             };
 

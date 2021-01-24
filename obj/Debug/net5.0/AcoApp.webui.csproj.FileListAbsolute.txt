@@ -44,3 +44,7 @@ C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Sh
 C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
 C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Shared\_noproduct.cshtml.g.cs
 C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aleyna\source\repos\AcoApp\AcoApp.webui\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
